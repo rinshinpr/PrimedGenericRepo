@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>IDEI</groupId>
   <artifactId>CallNotification</artifactId>
-  <version>1.0</version>
+  <version>1.10</version>
   <name>CallNotification</name>
   <description>This is generic workflow created for PRIMED</description>
   <build>
