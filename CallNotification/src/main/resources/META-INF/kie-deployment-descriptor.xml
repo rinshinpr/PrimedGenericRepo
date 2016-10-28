@@ -30,7 +30,7 @@
         </work-item-handler>
         <work-item-handler>
             <resolver>mvel</resolver>
-            <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.agileidc.com", "25", "rinshin@agileidc.com", "rinshin123")</identifier>
+            <identifier>new org.jbpm.process.workitem.email.EmailWorkItemHandler("smtp.agileidc.com", "25", "donotreply@agileidc.com", "Pa55w0rd123")</identifier>
             <parameters/>
             <name>Email</name>
         </work-item-handler>
